@@ -1,0 +1,115 @@
+/* Основні стилі для сторінки */
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f8ff; /* Світло-блакитний фон */
+  color: #333333; /* Темно-сірий текст */
+}
+
+/* Шапка сайту */
+header {
+  background-color: #2c3e50; /* Темно-синій фон шапки */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-family: 'Cinzel Decorative', serif;
+  font-size: 2.5em;
+  margin: 0;
+}
+
+header img {
+  width: 50px;
+  height: auto;
+}
+
+/* Навігація */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #16a085; /* Колір навігації (зелено-бірюзовий) */
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a, nav ul li span {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 10px 15px;
+  display: block;
+}
+
+nav ul li a:hover {
+  background-color: #1abc9c; /* Колір при наведенні на пункт меню */
+  border-radius: 5px;
+}
+
+/* Основний контент */
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.welcome-section {
+  width: 60%;
+  background-color: #ecf0f1; /* Світло-сірий блок для тексту привітання */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Тінь для блоку */
+}
+
+.sidebar {
+  width: 35%;
+  background-color: #ffffff; /* Білий фон бокової панелі */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Тінь для бокової панелі */
+}
+
+.sidebar img {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border-radius: 5px; /* Закруглені кути для зображень */
+}
+
+/* Заголовки */
+h2 {
+  font-family: 'Cinzel Decorative', serif;
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Нижній колонтитул */
+footer {
+  background-color: #2c3e50; /* Фон підвалу (footer) */
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+footer a {
+  color: #1abc9c; /* Колір посилання в підвалі */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline; /* Підкреслення посилання при наведенні */
+}
