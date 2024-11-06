@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Розклад подій</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Розклад подій</h1>
+    </header>
+    <main>
+        <input type="text" id="search" placeholder="Пошук за назвою або містом...">
+        <table id="events-table">
+            <thead>
+                <tr>
+                    <th onclick="sortEvents('date')">Дата</th>
+                    <th>Назва</th>
+                    <th>Час</th>
+                    <th>Місто</th>
+                    <th>Тип</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </main>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="modal-info"></div>
+        </div>
+    </div>
+    <footer>
+        <p>Розроблено для навчальних цілей</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

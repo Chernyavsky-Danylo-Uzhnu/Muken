@@ -1,0 +1,310 @@
+[
+    {
+        "eventId": 1021,
+        "title": "Startup Pitch Night",
+        "date": "2024-11-06",
+        "time": "18:30",
+        "location": {
+            "venue": "Tech Incubator",
+            "city": "San Francisco"
+        },
+        "type": "Networking"
+    },
+    {
+        "eventId": 1022,
+        "title": "Wine Tasting Evening",
+        "date": "2024-11-08",
+        "time": "19:00",
+        "location": {
+            "venue": "Downtown Winery",
+            "city": "Napa"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1023,
+        "title": "AI and Machine Learning Conference",
+        "date": "2024-11-10",
+        "time": "09:00",
+        "location": {
+            "venue": "Convention Center",
+            "city": "Los Angeles"
+        },
+        "type": "Conference"
+    },
+    {
+        "eventId": 1024,
+        "title": "City Marathon",
+        "date": "2024-11-12",
+        "time": "07:00",
+        "location": {
+            "venue": "City Park",
+            "city": "Chicago"
+        },
+        "type": "Sports"
+    },
+    {
+        "eventId": 1025,
+        "title": "Culinary Workshop",
+        "date": "2024-11-15",
+        "time": "14:00",
+        "location": {
+            "venue": "Culinary School",
+            "city": "New York"
+        },
+        "type": "Workshop"
+    },
+    {
+        "eventId": 1026,
+        "title": "Annual Book Fair",
+        "date": "2024-11-18",
+        "time": "10:00",
+        "location": {
+            "venue": "Library Hall",
+            "city": "Seattle"
+        },
+        "type": "Literature"
+    },
+    {
+        "eventId": 1027,
+        "title": "Photography Exhibition",
+        "date": "2024-11-20",
+        "time": "11:00",
+        "location": {
+            "venue": "Art Center",
+            "city": "Miami"
+        },
+        "type": "Exhibition"
+    },
+    {
+        "eventId": 1028,
+        "title": "Corporate Wellness Workshop",
+        "date": "2024-11-22",
+        "time": "15:00",
+        "location": {
+            "venue": "Downtown Office",
+            "city": "Dallas"
+        },
+        "type": "Wellness"
+    },
+    {
+        "eventId": 1029,
+        "title": "Music in the Park",
+        "date": "2024-11-24",
+        "time": "16:00",
+        "location": {
+            "venue": "Central Park",
+            "city": "Denver"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1030,
+        "title": "Local Artisans Market",
+        "date": "2024-11-26",
+        "time": "09:00",
+        "location": {
+            "venue": "Town Square",
+            "city": "Austin"
+        },
+        "type": "Market"
+    },
+    {
+        "eventId": 1031,
+        "title": "Film Screening: Classic Cinema",
+        "date": "2024-11-28",
+        "time": "18:30",
+        "location": {
+            "venue": "Grand Cinema",
+            "city": "San Francisco"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1032,
+        "title": "Charity Gala Dinner",
+        "date": "2024-11-30",
+        "time": "19:00",
+        "location": {
+            "venue": "City Hall",
+            "city": "New York"
+        },
+        "type": "Charity"
+    },
+    {
+        "eventId": 1033,
+        "title": "Open Mic Night",
+        "date": "2024-12-02",
+        "time": "20:00",
+        "location": {
+            "venue": "Local Bar",
+            "city": "Portland"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1034,
+        "title": "Career Fair for Graduates",
+        "date": "2024-12-04",
+        "time": "10:00",
+        "location": {
+            "venue": "University Hall",
+            "city": "Boston"
+        },
+        "type": "Career"
+    },
+    {
+        "eventId": 1035,
+        "title": "Christmas Market",
+        "date": "2024-12-06",
+        "time": "09:00",
+        "location": {
+            "venue": "City Square",
+            "city": "New Orleans"
+        },
+        "type": "Market"
+    },
+    {
+        "eventId": 1036,
+        "title": "Yoga in the Park",
+        "date": "2024-12-08",
+        "time": "08:00",
+        "location": {
+            "venue": "Community Park",
+            "city": "San Diego"
+        },
+        "type": "Wellness"
+    },
+    {
+        "eventId": 1037,
+        "title": "Tech Meetup",
+        "date": "2024-12-10",
+        "time": "17:00",
+        "location": {
+            "venue": "Innovation Hub",
+            "city": "Austin"
+        },
+        "type": "Networking"
+    },
+    {
+        "eventId": 1038,
+        "title": "Winter Arts Festival",
+        "date": "2024-12-12",
+        "time": "12:00",
+        "location": {
+            "venue": "Art District",
+            "city": "Chicago"
+        },
+        "type": "Festival"
+    },
+    {
+        "eventId": 1039,
+        "title": "Coding Bootcamp",
+        "date": "2024-12-14",
+        "time": "09:00",
+        "location": {
+            "venue": "Tech Campus",
+            "city": "Seattle"
+        },
+        "type": "Educational"
+    },
+    {
+        "eventId": 1040,
+        "title": "Dance Performance",
+        "date": "2024-12-16",
+        "time": "19:00",
+        "location": {
+            "venue": "Opera House",
+            "city": "New York"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1041,
+        "title": "Annual Science Expo",
+        "date": "2024-12-18",
+        "time": "10:00",
+        "location": {
+            "venue": "Expo Center",
+            "city": "Houston"
+        },
+        "type": "Educational"
+    },
+    {
+        "eventId": 1042,
+        "title": "Stand-Up Comedy Night",
+        "date": "2024-12-20",
+        "time": "21:00",
+        "location": {
+            "venue": "Comedy Club",
+            "city": "Los Angeles"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1043,
+        "title": "Charity Fun Run",
+        "date": "2024-12-22",
+        "time": "08:00",
+        "location": {
+            "venue": "Beachfront",
+            "city": "Miami"
+        },
+        "type": "Charity"
+    },
+    {
+        "eventId": 1044,
+        "title": "Cooking Masterclass",
+        "date": "2024-12-24",
+        "time": "14:00",
+        "location": {
+            "venue": "Chef's Academy",
+            "city": "Boston"
+        },
+        "type": "Workshop"
+    },
+    {
+        "eventId": 1045,
+        "title": "Digital Art Exhibition",
+        "date": "2024-12-26",
+        "time": "11:00",
+        "location": {
+            "venue": "Gallery One",
+            "city": "Denver"
+        },
+        "type": "Exhibition"
+    },
+    {
+        "eventId": 1046,
+        "title": "Outdoor Jazz Concert",
+        "date": "2024-12-28",
+        "time": "18:00",
+        "location": {
+            "venue": "Riverside Park",
+            "city": "New Orleans"
+        },
+        "type": "Entertainment"
+    },
+    {
+        "eventId": 1047,
+        "title": "Meditation Workshop",
+        "date": "2024-12-30",
+        "time": "09:00",
+        "location": {
+            "venue": "Yoga Studio",
+            "city": "San Francisco"
+        },
+        "type": "Wellness"
+    },
+    {
+        "eventId": 1048,
+        "title": "Startup Founders Meetup",
+        "date": "2024-12-01",
+        "time": "17:00",
+        "location": {
+            "venue": "Co-working Space",
+            "city": "Los Angeles"
+        },
+        "type": "Networking"
+    }
+]
